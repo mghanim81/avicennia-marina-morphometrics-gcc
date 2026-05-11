@@ -2,7 +2,7 @@
 
 This repository contains the processed dataset and analysis pipeline used in the study:
 
-"Quantitative Morphometric Analysis of Avicennia marina Leaves Across the GCC Using Image-Based Shape and Fourier Descriptors"
+"Leaf morphological variation in Avicennia marina across the Gulf Cooperation Council: a quantitative morphometric analysis"
 
 ## Dataset contents
 
