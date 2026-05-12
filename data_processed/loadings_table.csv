@@ -1,0 +1,11 @@
+,PC1,PC2,PC3
+log_area,0.409,-0.25,0.148
+log_perimeter,0.373,-0.321,0.144
+log_major_axis,0.346,-0.344,0.226
+log_minor_axis,0.436,-0.19,0.047
+aspect_ratio,-0.325,-0.287,0.368
+extent,0.285,0.308,-0.022
+roundness,0.327,0.321,-0.293
+circularity,0.279,0.43,0.036
+convexity,-0.067,0.267,0.674
+solidity,0.093,0.379,0.476

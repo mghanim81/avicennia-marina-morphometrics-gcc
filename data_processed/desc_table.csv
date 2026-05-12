@@ -1,0 +1,11 @@
+,mean,std,min,max
+log_area,11.66,1.21,9.54,14.75
+log_perimeter,7.35,0.59,6.21,9.03
+log_major_axis,6.39,0.58,5.14,7.84
+log_minor_axis,5.58,0.66,4.39,7.21
+aspect_ratio,2.32,0.63,1.16,4.97
+extent,0.6,0.1,0.25,0.83
+roundness,0.43,0.12,0.16,0.83
+circularity,0.61,0.1,0.24,0.86
+convexity,0.93,0.02,0.79,0.97
+solidity,0.95,0.04,0.75,1.0

@@ -1,0 +1,1307 @@
+image_id,image_filename,country,source,category,contains_leaf,leaf_visibility,health_observable,usable_for_cropping,notes
+BH_001,461155735.jpg,Bahrain,iNaturalist,B,yes,clear,no,no,"focused on leaves, low resolution"
+BH_002,447220184.jpeg,Bahrain,iNaturalist,B,yes,clear,yes,no,low resolution
+BH_003,393801172.jpeg,Bahrain,iNaturalist,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_004,393801203.jpeg,Bahrain,iNaturalist,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_005,328907410.jpeg,Bahrain,iNaturalist,A,yes,clear,yes,yes,"low-medium resolution, focused on unhealthy leaves with some unhealthy flower present"
+BH_006,328907422.jpeg,Bahrain,iNaturalist,C,yes,partial,no,no,"many objects, low resolution"
+BH_007,328907443.jpeg,Bahrain,iNaturalist,C,yes,partial,no,no,"many objects, low resolution"
+BH_008,328907459.jpeg,Bahrain,iNaturalist,A,yes,clear,yes,yes,"medium resolution, mix of healthy and unhealthy leaves with unhealthy flowers"
+BH_009,204330448.jpeg,Bahrain,iNaturalist,B,yes,clear,yes,no,"low resolution, flowers"
+BH_010,203609558.jpg,Bahrain,iNaturalist,B,yes,clear,yes,no,"focused on leaves and flowers, medium resolution"
+BH_011,203609587.jpg,Bahrain,iNaturalist,A,yes,clear,yes,yes,focused on leaves with some flower present
+BH_012,203609626.jpg,Bahrain,iNaturalist,A,yes,clear,yes,yes,focused on leaves with some flower present
+BH_013,165088754.jpg,Bahrain,iNaturalist,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_014,138907633.jpg,Bahrain,iNaturalist,B,yes,partial,no,no,"less than 50% of leaf shap present, focus on flowers"
+BH_015,138907607.jpg,Bahrain,iNaturalist,A,yes,clear,yes,yes,"medium resolution dominant leaves, and small flowers"
+BH_016,138907620.jpg,Bahrain,iNaturalist,A,yes,clear,yes,yes,focused on leaves with some flower present
+BH_017,138907546.jpg,Bahrain,iNaturalist,C,yes,clear,yes,no,low resolution
+BH_018,138907553.jpg,Bahrain,iNaturalist,C,yes,clear,yes,no,low resolution
+BH_019,138907564.jpg,Bahrain,iNaturalist,C,yes,clear,yes,no,low resolution
+BH_020,138697076.jpg,Bahrain,iNaturalist,C,yes,partial,no,no,"a tree in the middle of the water, low resolution"
+BH_021,7127824.jpg,Bahrain,iNaturalist,C,yes,clear,yes,no,low resolution
+BH_022,7127978.jpg,Bahrain,iNaturalist,A,yes,clear,yes,yes,"low - medium resolution tree image with dominant leaves, and small flowers"
+BH_023,1896158.JPG,Bahrain,iNaturalist,A,yes,clear,yes,no,low resolution
+BH_024,20230401_091941.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_025,20230401_091955.jpg,Bahrain,local_research,C,yes,partial,no,no,"many objects, low resolution"
+BH_026,20230401_092053.jpg,Bahrain,local_research,C,yes,partial,no,no,"many objects, low resolution"
+BH_027,20230401_092054.jpg,Bahrain,local_research,C,yes,partial,no,no,"many objects, low resolution"
+BH_028,20230401_092122.jpg,Bahrain,local_research,C,yes,partial,no,no,"many objects, low resolution"
+BH_029,20230401_092127.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_030,20230401_092133.jpg,Bahrain,local_research,C,yes,partial,no,no,"many objects, low resolution"
+BH_031,20230401_092205.jpg,Bahrain,local_research,C,yes,partial,no,no,"full tree, medium to low resolution"
+BH_032,20230401_092207.jpg,Bahrain,local_research,C,yes,partial,no,no,"many objects, low resolution"
+BH_033,20230401_092209.jpg,Bahrain,local_research,C,yes,partial,no,no,"many objects, low resolution"
+BH_034,20230401_092211.jpg,Bahrain,local_research,C,yes,partial,no,no,"full tree, medium to low resolution"
+BH_035,20230401_092220.jpg,Bahrain,local_research,C,yes,partial,no,no,"many objects, low resolution"
+BH_036,20230401_092324.jpg,Bahrain,local_research,C,yes,partial,no,no,"many objects, low resolution"
+BH_037,20230401_092328.jpg,Bahrain,local_research,C,yes,partial,no,no,"many objects, low resolution"
+BH_038,20230401_092336.jpg,Bahrain,local_research,C,yes,partial,no,no,"full tree, medium to low resolution"
+BH_039,20230401_092401.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_040,20230401_092405.jpg,Bahrain,local_research,C,yes,partial,no,no,"many objects, low resolution"
+BH_041,20230401_092409.jpg,Bahrain,local_research,C,yes,partial,no,no,"many objects, low resolution"
+BH_042,20230401_092443.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_043,20230401_092536.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_044,20230401_092540.jpg,Bahrain,local_research,C,yes,partial,no,no,"many objects, low resolution"
+BH_045,20230401_092545.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_046,20230401_092613.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_047,20230401_092616.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_048,20230401_093023.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_049,20230401_093025.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_050,20230401_093031.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_051,20230401_093032.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_052,20230401_093819.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_053,20230401_093829.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_054,20230401_093831.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_055,20230401_094027.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_056,20230401_094029.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_057,20230401_094033.jpg,Bahrain,local_research,D,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_058,5062998509_0.jpg,Bahrain,GBIF,C,yes,clear,yes,no,low resolution
+BH_059,3859847575_0.jpg,Bahrain,GBIF,A,yes,clear,yes,yes,"high resolution tree image with dominant leaves, and small flowers"
+BH_060,3859847575_1.jpg,Bahrain,GBIF,A,yes,clear,yes,yes,"low - medium resolution, flowers"
+BH_061,3859847575_2.jpg,Bahrain,GBIF,A,yes,clear,yes,yes,"high resolution tree image with dominant leaves, and small flowers"
+BH_062,1839275906_0.jpg,Bahrain,GBIF,A,yes,clear,yes,yes,"medium resolution , flowers"
+BH_063,1839275906_1.jpg,Bahrain,GBIF,C,yes,clear,no,no,medium resolution whole tree with sea view
+BH_064,5153250302_0.jpg,Bahrain,GBIF,B,yes,clear,no,no,medium resolution whole tree
+BH_065,574917912_0.jpg,Bahrain,GBIF,A,yes,clear,yes,no,"medium res, study dry leaves with both unhealthy and healthy"
+BH_066,574917912_1.jpg,Bahrain,GBIF,A,yes,clear,yes,no,"study dry leaves with both unhealthy and healthy, low resolution"
+BH_067,574917912_2.jpg,Bahrain,GBIF,A,yes,clear,yes,no,"study dry leaves with both unhealthy and healthy, low resolution"
+BH_068,5916650643_0.jpg,Bahrain,GBIF,A,yes,clear,yes,yes,study dry leaves with both unhealthy and healthy
+BH_069,5916327960_0.jpg,Bahrain,GBIF,A,yes,clear,yes,yes,study dry leaves with both unhealthy and healthy
+BH_070,5915573153_0.jpg,Bahrain,GBIF,A,yes,clear,yes,no,"study dry leaves with both unhealthy and healthy, low resolution"
+BH_071,Arad2.jpg,Bahrain,local_research,C,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_072,mangroves in Arad.jpg,Bahrain,local_research,C,yes,poor,no,no,"many objects, low resolution, far distant"
+BH_073,Mud.jpg,Bahrain,local_research,D,no,poor,no,no,mangrove mud area
+BH_074,081406.png,Bahrain,Flickr,B,yes,clear,yes,no,low resolution whole tree in water
+BH_075,Tubli 4.jpeg,Bahrain,local_research,C,yes,partial,no,no,"low resolution, far distance"
+BH_076,Tubli 5.jpeg,Bahrain,local_research,C,yes,partial,yes,no,"low resolution, far distance"
+BH_077,Tubli 6.jpeg,Bahrain,local_research,C,yes,partial,yes,no,"low resolution, far distance"
+BH_078,Tubli 9 samall size.jpeg,Bahrain,local_research,C,yes,clear,yes,no,low resolution
+BH_079,Tubli 9 samall size2.jpeg,Bahrain,local_research,C,yes,clear,yes,no,low resolution
+BH_080,Tubli 9.jpeg,Bahrain,local_research,C,yes,clear,yes,no,low resolution
+BH_081,Tubli 10.jpeg,Bahrain,local_research,C,yes,clear,yes,no,low resolution
+BH_082,Tubli 11.jpeg,Bahrain,local_research,C,yes,clear,yes,no,low resolution
+BH_083,WhatsApp Image 2025-12-09 at 6.10.25 PM.jpeg,Bahrain,local_research,B,yes,clear,no,no,"low resolution, whole tree"
+BH_084,WhatsApp Image 2025-12-09 at 6.10.26 PM (1).jpeg,Bahrain,local_research,B,yes,clear,no,no,"low resolution, whole tree"
+BH_085,WhatsApp Image 2025-12-09 at 6.10.26 PM (2).jpeg,Bahrain,local_research,B,yes,clear,no,no,"low resolution, whole tree"
+BH_086,WhatsApp Image 2025-12-09 at 6.10.26 PM (3).jpeg,Bahrain,local_research,A,yes,clear,yes,yes,high resolution leaf focused
+BH_087,WhatsApp Image 2025-12-09 at 6.10.26 PM.jpeg,Bahrain,local_research,B,yes,clear,no,no,"low resolution, whole tree"
+BH_088,WhatsApp Image 2025-12-09 at 6.10.27 PM (1).jpeg,Bahrain,local_research,B,yes,clear,no,no,"low resolution, whole tree, very far distance"
+BH_089,WhatsApp Image 2025-12-09 at 6.10.27 PM.jpeg,Bahrain,local_research,B,yes,clear,no,no,"low resolution, whole tree,far distance"
+BH_090,WhatsApp Image 2025-12-09 at 6.10.28 PM.jpeg,Bahrain,local_research,B,yes,clear,no,no,"low resolution, whole tree"
+BH_091,WhatsApp Image 2025-12-09 at 6.10.29 PM (1).jpeg,Bahrain,local_research,B,yes,clear,no,no,"low resolution, whole tree, far distance"
+BH_092,WhatsApp Image 2025-12-09 at 6.10.29 PM.jpeg,Bahrain,local_research,B,yes,clear,no,no,"low resolution, whole tree, far distance"
+BH_093,WhatsApp Image 2025-12-09 at 6.10.30 PM.jpeg,Bahrain,local_research,B,yes,clear,no,no,"low resolution, whole tree, far distance"
+BH_094,WhatsApp Image 2025-12-09 at 6.10.31 PM.jpeg,Bahrain,local_research,B,yes,clear,no,no,"low resolution, whole tree, far distance"
+BH_095,WhatsApp Image 2025-12-09 at 6.10.32 PM (1).jpeg,Bahrain,local_research,B,yes,clear,no,no,"low resolution, whole tree, far distance"
+BH_096,WhatsApp Image 2025-12-09 at 6.10.32 PM.jpeg,Bahrain,local_research,A,yes,clear,yes,no,low resolution
+BH_097,WhatsApp Image 2025-12-09 at 6.10.33 PM.jpeg,Bahrain,local_research,C,yes,partial,no,no,"low resolution, far distance"
+BH_098,WhatsApp Image 2025-12-09 at 6.10.34 PM (1).jpeg,Bahrain,local_research,C,yes,partial,no,no,"low resolution, far distance"
+BH_099,WhatsApp Image 2025-12-09 at 6.10.34 PM (2).jpeg,Bahrain,local_research,C,yes,partial,no,no,"low resolution, far distance"
+BH_100,WhatsApp Image 2025-12-09 at 6.10.34 PM.jpeg,Bahrain,local_research,C,yes,partial,no,no,"low resolution, far distance"
+BH_101,WhatsApp Image 2025-12-09 at 6.10.35 PM (1).jpeg,Bahrain,local_research,C,yes,partial,no,no,"low resolution, far distance"
+BH_102,WhatsApp Image 2025-12-09 at 6.10.35 PM.jpeg,Bahrain,local_research,C,yes,partial,no,no,"low resolution, far distance"
+BH_103,WhatsApp Image 2025-12-09 at 6.10.36 PM (1).jpeg,Bahrain,local_research,C,yes,partial,no,no,"low resolution, far distance"
+BH_104,WhatsApp Image 2025-12-09 at 6.10.36 PM (2).jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance, blurry"
+BH_105,WhatsApp Image 2025-12-09 at 6.10.36 PM.jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance, blurry"
+BH_106,WhatsApp Image 2025-12-09 at 6.10.40 PM (1).jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance, blurry"
+BH_107,WhatsApp Image 2025-12-09 at 6.10.40 PM.jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance, blurry"
+BH_108,WhatsApp Image 2025-12-09 at 6.10.41 PM (1).jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance, blurry"
+BH_109,WhatsApp Image 2025-12-09 at 6.10.41 PM (2).jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance, blurry"
+BH_110,WhatsApp Image 2025-12-09 at 6.10.41 PM (3).jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance"
+BH_111,WhatsApp Image 2025-12-09 at 6.10.41 PM.jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance"
+BH_112,WhatsApp Image 2025-12-09 at 6.10.42 PM (1).jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance"
+BH_113,WhatsApp Image 2025-12-09 at 6.10.42 PM (2).jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance"
+BH_114,WhatsApp Image 2025-12-09 at 6.10.42 PM (3).jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance"
+BH_115,WhatsApp Image 2025-12-09 at 6.10.42 PM.jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance"
+BH_116,WhatsApp Image 2025-12-09 at 6.10.43 PM (1).jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance"
+BH_117,WhatsApp Image 2025-12-09 at 6.10.43 PM (2).jpeg,Bahrain,local_research,C,yes,clear,yes,no,low resolution
+BH_118,WhatsApp Image 2025-12-09 at 6.10.43 PM.jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance"
+BH_119,WhatsApp Image 2025-12-09 at 6.10.44 PM (1).jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance"
+BH_120,WhatsApp Image 2025-12-09 at 6.10.44 PM.jpeg,Bahrain,local_research,B,yes,clear,yes,no,medium resolution
+BH_121,WhatsApp Image 2025-12-09 at 6.10.45 PM (1).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_122,WhatsApp Image 2025-12-09 at 6.10.45 PM (2).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_123,WhatsApp Image 2025-12-09 at 6.10.45 PM.jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_124,WhatsApp Image 2025-12-09 at 6.10.46 PM.jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_125,WhatsApp Image 2025-12-09 at 6.10.47 PM (1).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_126,WhatsApp Image 2025-12-09 at 6.10.47 PM (2).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_127,WhatsApp Image 2025-12-09 at 6.10.47 PM.jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_128,WhatsApp Image 2025-12-09 at 6.10.48 PM (1).jpeg,Bahrain,local_research,B,yes,clear,yes,no,low resolution
+BH_129,WhatsApp Image 2025-12-09 at 6.10.48 PM (2).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_130,WhatsApp Image 2025-12-09 at 6.10.48 PM.jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_131,WhatsApp Image 2025-12-09 at 6.10.49 PM.jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_132,WhatsApp Image 2025-12-09 at 6.10.51 PM (1).jpeg,Bahrain,local_research,B,yes,clear,yes,no,low resolution
+BH_133,WhatsApp Image 2025-12-09 at 6.10.56 PM.jpeg,Bahrain,local_research,C,yes,poor,no,no,"low resolution, far distance, blurry"
+BH_134,WhatsApp Image 2025-12-09 at 6.10.51 PM (2).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_135,WhatsApp Image 2025-12-09 at 6.10.51 PM.jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_136,WhatsApp Image 2025-12-09 at 6.10.53 PM (1).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_137,WhatsApp Image 2025-12-09 at 6.10.53 PM (2).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_138,WhatsApp Image 2025-12-09 at 6.10.53 PM.jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_139,WhatsApp Image 2025-12-09 at 6.10.54 PM (1).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_140,WhatsApp Image 2025-12-09 at 6.10.54 PM (2).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_141,WhatsApp Image 2025-12-09 at 6.10.54 PM (3).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_142,WhatsApp Image 2025-12-09 at 6.10.54 PM (4).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_143,WhatsApp Image 2025-12-09 at 6.10.54 PM.jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_144,WhatsApp Image 2025-12-09 at 6.10.55 PM (1).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_145,WhatsApp Image 2025-12-09 at 6.10.55 PM (2).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_146,WhatsApp Image 2025-12-09 at 6.10.55 PM (3).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_147,WhatsApp Image 2025-12-09 at 6.10.55 PM.jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_148,WhatsApp Image 2025-12-09 at 6.10.56 PM (1).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_149,WhatsApp Image 2025-12-09 at 6.10.56 PM (2).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_150,WhatsApp Image 2025-12-09 at 6.10.56 PM (3).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_151,WhatsApp Image 2025-12-09 at 6.10.57 PM (1).jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_152,WhatsApp Image 2025-12-09 at 6.10.57 PM.jpeg,Bahrain,local_research,C,yes,clear,no,no,"low resolution, far distance"
+BH_153,20251227_092616.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,
+BH_154,20251227_092603.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,
+BH_155,20251227_092316.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,
+BH_156,20251227_092559.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,
+BH_157,20251227_092720.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,
+BH_158,20251227_092513.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,"head of leaf is diplayed, from top photo"
+BH_159,20251227_092647.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,"mainly unhealthy leaves, medium resolution"
+BH_160,20251227_092229.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,high resolution
+BH_161,20251227_092756.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,medium resolution
+BH_162,20251227_092446.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,medium resolution
+BH_163,20251227_092456.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,high resolution
+BH_164,20251227_092643.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,"mainly unhealthy leaves, medium resolution"
+BH_165,20251227_092714.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,no,low resolution
+BH_166,20251227_092641.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,no,low-medium resolution
+BH_167,20251227_092835.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,high resolution
+BH_168,20251227_092801.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,high resolution
+BH_169,20251227_092605.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,medium resolution
+BH_170,20251227_092222.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,high resolution
+BH_171,20251227_092414.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,medium resolution
+BH_172,20251227_092402.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,medium resolution
+BH_173,20251227_092240.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,"high resolution, hand fingers visible"
+BH_174,20251227_092830.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,high resolution
+BH_175,20251227_092754.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,
+BH_176,20251227_092234.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,high resolution
+BH_177,20251227_092321.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,no,low-medium resolution
+BH_178,20251227_092612.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,medium resolution
+BH_179,20251227_094131.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,high resolution
+BH_180,20251227_092438.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,medium resolution
+BH_181,20251227_092355.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,medium resolution
+BH_182,20251227_093247.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,high resolution
+BH_183,20251227_092324.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,no,low-medium resolution
+BH_184,20251227_092653.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,medium resolution
+BH_185,20251227_092657.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,no,low resolution
+BH_186,20251227_092749.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_187,20251227_092827.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,unhealthy leaf
+BH_188,20251227_092822.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,unhealthy leaf
+BH_189,20251227_093150.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,high resolution
+BH_190,20251227_093143.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,high resolution
+BH_191,20251227_093235.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,
+BH_192,20251227_093105.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,high resolution
+BH_193,20251227_093157.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,high resolution
+BH_194,20251227_093021.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_195,20251227_093019.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_196,20251227_092938.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_197,20251227_093402.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,partial sides
+BH_198,20251227_093227.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,some overlap
+BH_199,20251227_093002.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_200,20251227_092908.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_201,20251227_093111.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_202,20251227_093540.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_203,20251227_093427.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,"medium resolution, flower"
+BH_204,20251227_093432.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,
+BH_205,20251227_092934.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_206,20251227_093525.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,medium resolution
+BH_207,20251227_092906.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_208,20251227_093550.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_209,20251227_093753.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_210,20251227_093532.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_211,20251227_093417.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_212,20251227_093812.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_213,20251227_093636.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_214,20251227_093801.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_215,20251227_093834.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_216,20251227_093826.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_217,20251227_093443.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,medium resolution
+BH_218,20251227_093831.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_219,20251227_093938.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_220,20251227_093556.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_221,20251227_093951.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_222,20251227_093736.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,medium resolution
+BH_223,20251227_093732.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_224,20251227_094002.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_225,20251227_093947.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_226,20251227_094020.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_227,20251227_094050.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,medium resolution
+BH_228,20251227_094029.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_229,20251227_093941.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_230,20251227_094039.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_231,20251227_094111.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_232,20251227_094056.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_233,20251227_094057.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_234,20251227_094301.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_235,20251227_094250.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_236,20251227_094412.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_237,20251227_094142.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_238,20251227_094317.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_239,20251227_094129.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_240,20251227_094308.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_241,20251227_094313.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_242,20251227_094439.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_243,20251227_094220.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_244,20251227_094529.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_245,20251227_094501.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_246,20251227_094509.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_247,20251227_094228.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_248,20251227_094557.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_249,20251227_094454.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_250,20251227_094209.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_251,20251227_094544.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_252,20251227_094200.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_253,20251227_094609.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_254,20251227_094743.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_255,20251227_094615.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_256,20251227_094551.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_257,20251227_094737.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_258,20251227_094617.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_259,20251227_094635.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_260,20251227_094642.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_261,20251227_094727.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_262,20251227_094750.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_263,20251227_094755.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_264,20251227_094817.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_265,20251227_094838.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_266,20251227_094813.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_267,20251227_094831.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_268,20251227_094801.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_269,20251227_095136.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_270,20251227_094945.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_271,20251227_095040.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_272,20251227_094854.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_273,20251227_094914.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_274,20251227_094920.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_275,20251227_094925.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_276,20251227_094939.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_277,20251227_095139.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_278,20251227_094815.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_279,20251227_094844.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_280,20251227_095241.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_281,20251227_095129.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_282,20251227_095343.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_283,20251227_095146.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_284,20251227_095156.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_285,20251227_095403.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_286,20251227_095334.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_287,20251227_095729.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_288,20251227_095658.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_289,20251227_095351.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_290,20251227_095846.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_291,20251227_095326.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_292,20251227_095708.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_293,20251227_095347.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_294,20251227_095336.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_295,20251227_095052.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_296,20251227_095844.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_297,20251227_095700.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_298,20251227_095357.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_299,20251227_100134.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_300,20251227_100322.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_301,20251227_095200.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_302,20251227_100337.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_303,20251227_100222.jpg,Bahrain,Field(Ras Sanad),B,yes,clear,yes,yes,medium resolution
+BH_304,20251227_100206.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_305,20251227_100235.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_306,20251227_100246.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_307,20251227_100258.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_308,20251227_095759.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_309,20251227_100351.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_310,20251227_100329.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_311,20251227_100428.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_312,20251227_100415.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,"medium resolution, one unhealthy leaf"
+BH_313,20251227_100431.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_314,20251227_100356.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_315,20251227_100406.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_316,20251227_100402.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_317,20251227_100410.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_318,20251227_100345.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_319,20251227_100943.jpg,Bahrain,Field(Ras Sanad),C,yes,clear,no,no,low resolution
+BH_320,20251227_100238.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+BH_321,20251227_100154.jpg,Bahrain,Field(Ras Sanad),A,yes,clear,yes,yes,
+QA_001,598769572.jpg,Qatar,iNaturalist,A,yes,clear,yes,yes,"healthy/unhealthy, medium resolution"
+QA_002,598769585.jpg,Qatar,iNaturalist,B,yes,clear,yes,no,"healthy/unhealthy, low resolution"
+QA_003,598769587.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_004,521933324.jpg,Qatar,iNaturalist,B,yes,partial,yes,yes,"light blurred one leaf, flowers focused"
+QA_005,521933372.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_006,517508388.jpg,Qatar,iNaturalist,D,yes,poor,no,no,blurred
+QA_007,517508296.jpg,Qatar,iNaturalist,B,yes,clear,yes,no,"healthy/unhealthy, low resolution, color card"
+QA_008,517508360.jpg,Qatar,iNaturalist,B,yes,clear,yes,yes,"healthy, hand focused, medium resolution"
+QA_009,487768758.jpeg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_010,487768748.jpeg,Qatar,iNaturalist,C,yes,clear,no,no,"low resolution, blurred"
+QA_011,476771827.jpg,Qatar,iNaturalist,B,yes,clear,yes,yes,"healthy, color card"
+QA_012,476771844.jpg,Qatar,iNaturalist,B,yes,clear,yes,yes,"healthy/unhealthy, medium resolution, color card"
+QA_013,476771877.jpg,Qatar,iNaturalist,B,yes,clear,yes,yes,"healthy, medium resolution, color card"
+QA_014,476771903.jpg,Qatar,iNaturalist,B,yes,clear,yes,yes,"healthy, medium resolution, color card"
+QA_015,476771936.jpg,Qatar,iNaturalist,B,yes,clear,yes,yes,"healthy, medium resolution, color card"
+QA_016,472901680.jpg,Qatar,iNaturalist,C,yes,partial,yes,no,"high resolution, partial leaves, flower focused"
+QA_017,472901673.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"medium resolution, far distance"
+QA_018,472901694.jpg,Qatar,iNaturalist,B,yes,clear,yes,yes,healthy
+QA_019,472901707.jpg,Qatar,iNaturalist,B,yes,clear,yes,yes,"healthy/unhealthy, medium to high resolution, color card"
+QA_020,472901719.jpg,Qatar,iNaturalist,B,yes,clear,yes,yes,"unhealthy one leaf, high resolution, color card, flowers"
+QA_021,472901733.jpg,Qatar,iNaturalist,B,yes,partial,yes,yes,"healthy, flower covering"
+QA_022,472901398.jpg,Qatar,iNaturalist,B,yes,clear,yes,yes,"healthy/unhealthy, medium resolution"
+QA_023,472901414.jpg,Qatar,iNaturalist,B,yes,clear,yes,yes,"healthy/unhealthy, medium to high resolution"
+QA_024,472901421.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"medium resolution, far distance"
+QA_025,472901428.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"medium resolution, leaves obscurred by water"
+QA_026,472901433.jpg,Qatar,iNaturalist,B,yes,clear,yes,no,"healthy/unhealthy, medium resolution, inside/outside water"
+QA_027,470231330.jpeg,Qatar,iNaturalist,B,yes,clear,yes,yes,"healthy/unhealthy, medium resolution"
+QA_028,468854273.jpeg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_029,468237161.jpeg,Qatar,iNaturalist,C,yes,clear,yes,no,"medium resolution, bad light effect"
+QA_030,468237184.jpeg,Qatar,iNaturalist,C,yes,clear,yes,no,"medium resolution, unhealthy leaf on the sand, roots"
+QA_031,468237197.jpeg,Qatar,iNaturalist,B,yes,partial,yes,yes,healthy/unhealthy
+QA_032,468237211.jpeg,Qatar,iNaturalist,B,yes,partial,yes,yes,little obscured
+QA_033,468237226.jpeg,Qatar,iNaturalist,B,yes,partial,yes,yes,"medium resolution , only 2 leaves with dry roots"
+QA_034,468237245.jpeg,Qatar,iNaturalist,C,yes,clear,yes,no,"medium resolution, far distance"
+QA_035,460909414.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"medium resolution, far distance"
+QA_036,460909426.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"medium resolution, far distance"
+QA_037,460909403.jpg,Qatar,iNaturalist,B,yes,clear,yes,no,low resolution bush
+QA_038,460909229.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, tree"
+QA_039,460909213.jpg,Qatar,iNaturalist,B,yes,clear,yes,no,"low resolution bush, sun light effect"
+QA_040,460908910.jpg,Qatar,iNaturalist,B,yes,clear,yes,yes,medium resolution bush
+QA_041,425050497.jpeg,Qatar,iNaturalist,C,yes,clear,yes,no,low resolution bush
+QA_042,412935368.jpg,Qatar,iNaturalist,A,yes,clear,yes,yes,a human hand focused
+QA_043,412935384.jpg,Qatar,iNaturalist,B,yes,partial,yes,yes,"unhealthy leaves with flowers, more flowers focused"
+QA_044,412935399.jpg,Qatar,iNaturalist,B,yes,clear,yes,yes,unhealthy leaves with flowers
+QA_045,412205942.jpeg,Qatar,iNaturalist,C,yes,patial,no,no,"low resolution, blurred"
+QA_046,401036179.jpg,Qatar,iNaturalist,C,yes,patial,no,no,"low resolution, blurred"
+QA_047,401036022.jpg,Qatar,iNaturalist,C,yes,poor,no,no,"low resolution, blurred"
+QA_048,401035911.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance, blurred"
+QA_049,400800881.jpg,Qatar,iNaturalist,B,yes,clear,yes,no,low resolution bush
+QA_050,400800604.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, tree"
+QA_051,400798764.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, tree"
+QA_052,400798477.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, tree"
+QA_053,400800350.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance, tree"
+QA_054,400798179.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, tree"
+QA_055,400797607.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,low resolution bush
+QA_056,400422782.jpg,Qatar,iNaturalist,D,yes,poor,no,no,"low resolution, far distance, tree"
+QA_057,400422495.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, tree"
+QA_058,400420634.jpg,Qatar,iNaturalist,C,yes,partial,yes,no,"low resolution, far distance, tree"
+QA_059,400419108.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, tree"
+QA_060,400413066.jpg,Qatar,iNaturalist,D,yes,poor,no,no,"low resolution, far distance, tree"
+QA_061,400410952.jpg,Qatar,iNaturalist,D,yes,poor,no,no,"low resolution, far distance, tree"
+QA_062,400410220.jpg,Qatar,iNaturalist,C,yes,clear,no,no,"low resolution, tree"
+QA_063,400410887.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, tree"
+QA_064,400409704.jpg,Qatar,iNaturalist,D,yes,poor,no,no,"low resolution, far distance, tree"
+QA_065,400409192.jpg,Qatar,iNaturalist,C,yes,clear,no,no,"low resolution, tree"
+QA_066,400408244.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance, blurred"
+QA_067,400407180.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,low resolution bush
+QA_068,400404735.jpg,Qatar,iNaturalist,B,yes,clear,yes,no,low resolution bush
+QA_069,400404704.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,low resolution bush
+QA_070,400397212.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, tree"
+QA_071,398601598.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, tree"
+QA_072,398601549.jpg,Qatar,iNaturalist,B,yes,clear,yes,no,low resolution bush
+QA_073,398596910.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance, blurred"
+QA_074,398593874.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, tree"
+QA_075,398593831.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, tree"
+QA_076,398592613.jpg,Qatar,iNaturalist,B,yes,clear,yes,no,low resolution bush
+QA_077,398592385.jpg,Qatar,iNaturalist,B,yes,clear,yes,no,low resolution bush
+QA_078,398126377.jpg,Qatar,iNaturalist,B,yes,clear,yes,no,low - medium resolution bush
+QA_079,398125783.jpg,Qatar,iNaturalist,B,yes,clear,yes,no,low - medium resolution bush
+QA_080,351222408.jpg,Qatar,iNaturalist,C,yes,poor,no,no,"low resolution, trees"
+QA_081,348473833.jpeg,Qatar,iNaturalist,C,yes,poor,no,no,"low resolution, tree"
+QA_082,347850017.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_083,344613562.jpg,Qatar,iNaturalist,C,yes,poor,no,no,"low resolution, far distance"
+QA_084,341721276.jpeg,Qatar,iNaturalist,C,yes,poor,no,no,"low resolution, far distance"
+QA_085,341625943.jpeg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, tree"
+QA_086,335857008.jpg,Qatar,iNaturalist,C,yes,poor,no,no,"low resolution, far distance, blurred"
+QA_087,335856962.jpg,Qatar,iNaturalist,C,yes,poor,no,no,"low resolution, far distance, blurred"
+QA_088,334293664.jpg,Qatar,iNaturalist,C,yes,partial,yes,no,"low resolution, far distance"
+QA_089,334293516.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_090,334293570.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_091,334293441.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_092,334293396.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_093,334293360.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_094,334293339.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_095,334293309.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_096,334293158.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_097,334293197.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_098,334292926.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_099,333781593.jpg,Qatar,iNaturalist,C,yes,poor,no,no,"low resolution, far distance, blurred"
+QA_100,319359773.jpeg,Qatar,iNaturalist,A,yes,clear,yes,yes,healthy/unhealthy
+QA_101,261819561.jpeg,Qatar,iNaturalist,D,yes,poor,no,no,"low resolution, far distance"
+QA_102,250846486.jpeg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, far distance"
+QA_103,250846500.jpeg,Qatar,iNaturalist,B,yes,clear,yes,yes,a human hand focused
+QA_104,250846512.jpeg,Qatar,iNaturalist,B,yes,clear,yes,yes,a human hand focused
+QA_105,250846529.jpeg,Qatar,iNaturalist,A,yes,clear,yes,yes,"clear only one leaf, high resolution"
+QA_106,250846549.jpeg,Qatar,iNaturalist,C,yes,clear,yes,no,low - medium resolution
+QA_107,250845900.jpeg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, far distance"
+QA_108,250845916.jpeg,Qatar,iNaturalist,A,yes,clear,yes,yes,"clear only one leaf, high resolution"
+QA_109,184306487.jpg,Qatar,iNaturalist,C,yes,clear,no,no,"low resolution, far distance"
+QA_110,184306496.jpg,Qatar,iNaturalist,C,yes,poor,no,no,"low resolution, far distance"
+QA_111,184306497.jpg,Qatar,iNaturalist,B,yes,partial,yes,yes,covered by few flowers (10-20%) of leaf area
+QA_112,184306507.jpg,Qatar,iNaturalist,B,yes,partial,yes,yes,covered by few flowers (10-20%) of leaf area
+QA_113,184025970.jpg,Qatar,iNaturalist,C,yes,poor,no,no,"low resolution, far distance"
+QA_114,184025183.jpg,Qatar,iNaturalist,A,yes,clear,yes,yes,"clear leaves, high resolution"
+QA_115,184025192.jpg,Qatar,iNaturalist,A,yes,clear,yes,yes,"clear leaves, high resolution"
+QA_116,184025201.jpg,Qatar,iNaturalist,A,yes,clear,yes,yes,"clear leaves, high resolution"
+QA_117,180029225.jpg,Qatar,iNaturalist,C,yes,clear,no,no,"low resolution, far distance"
+QA_118,165787717.jpg,Qatar,iNaturalist,B,yes,clear,yes,yes,"clear leaves, high resolution"
+QA_119,165268362.jpg,Qatar,iNaturalist,C,yes,poor,no,no,"low resolution, far distance"
+QA_120,164743986.jpg,Qatar,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+QA_121,103364638.jpg,Qatar,iNaturalist,B,yes,clear,no,no,"low resolution, far distance"
+QA_122,22177010.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_123,22175599.jpg,Qatar,iNaturalist,D,yes,poor,no,no,non-grey mangrove
+QA_124,22173090.jpg,Qatar,iNaturalist,D,yes,poor,no,no,"low resolution, far distance"
+QA_125,22172988.jpg,Qatar,iNaturalist,C,yes,poor,no,no,"low resolution, far distance"
+QA_126,22168488.jpg,Qatar,iNaturalist,D,yes,poor,no,no,non-grey mangrove
+QA_127,22168419.jpg,Qatar,iNaturalist,B,yes,clear,yes,no,low resolution
+QA_128,22168362.jpg,Qatar,iNaturalist,C,yes,partial,no,no,"low resolution, far distance"
+QA_129,12726279.jpg,Qatar,iNaturalist,C,yes,clear,no,no,"low resolution, far distance"
+QA_130,5812085.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, far distance"
+QA_131,5812086.jpg,Qatar,iNaturalist,C,yes,clear,yes,no,"low resolution, far distance"
+QA_132,5063907359_0.jpg,Qatar,GBIF,B,yes,partial,yes,yes,unhealthy
+QA_133,5063907359_1.jpg,Qatar,GBIF,B,yes,clear,yes,yes,"medium resolution, unhealthy leaf on the sand, roots"
+QA_134,5063907359_2.jpg,Qatar,GBIF,B,yes,partial,yes,yes,little obscured
+QA_135,5063907359_3.jpg,Qatar,GBIF,C,yes,clear,yes,no,"low resolution, far distance"
+QA_136,5063907359_4.jpg,Qatar,GBIF,C,yes,clear,yes,no,"low resolution, far distance"
+QA_137,5063907359_5.jpg,Qatar,GBIF,B,yes,clear,yes,yes,healthy/unhealthy
+QA_138,5063968256_0.jpg,Qatar,GBIF,C,yes,clear,no,no,"low resolution, far distance"
+QA_139,5070054355_0.jpg,Qatar,GBIF,A,yes,clear,yes,yes,"low - medium resolution, healthy/unhealthy"
+QA_140,5167786915_0.jpg,Qatar,GBIF,B,yes,clear,yes,yes,"healthy, medium to high resolution, color card"
+QA_141,5167786915_1.jpg,Qatar,GBIF,B,yes,clear,yes,yes,"healthy/unhealthy, medium to high resolution, color card"
+QA_142,5167786915_2.jpg,Qatar,GBIF,B,yes,clear,yes,yes,"healthy, medium to high resolution, color card"
+QA_143,5167786915_3.jpg,Qatar,GBIF,B,yes,clear,yes,yes,"healthy, medium to high resolution, color card"
+QA_144,5167786915_4.jpg,Qatar,GBIF,B,yes,clear,yes,yes,"healthy, medium to high resolution, color card"
+QA_145,5198661599_0.jpg,Qatar,GBIF,B,yes,partial,yes,yes,"unhealthy leaves with flowers, more flowers focused, little blurred"
+QA_146,5198661599_1.jpg,Qatar,GBIF,C,yes,partial,no,no,"low resolution, far distance"
+QA_147,4516283888_0.jpg,Qatar,GBIF,C,yes,partial,no,no,"low resolution, far distance"
+QA_148,5087284561_0.jpg,Qatar,GBIF,B,yes,clear,yes,yes,"healthy/unhealthy, medium to high resolution, color card"
+QA_149,5087284561_2.jpg,Qatar,GBIF,C,yes,clear,yes,no,"low resolution, healthy"
+QA_150,5087284561_3.jpg,Qatar,GBIF,B,yes,clear,yes,yes,"unhealthy one leaf, high resolution, color card, flowers"
+QA_151,5087284561_4.jpg,Qatar,GBIF,B,yes,clear,yes,yes,"healthy/unhealthy, medium - high resolution, color card"
+QA_152,5087284561_5.jpg,Qatar,GBIF,B,yes,clear,yes,yes,"healthy, medium - high resolution, color card"
+QA_153,4919747268_0.jpg,Qatar,GBIF,B,yes,partial,yes,yes,unhealthy
+QA_154,4919747268_1.jpg,Qatar,GBIF,B,yes,clear,yes,yes,healthy/unhealthy
+QA_155,4919747268_2.jpg,Qatar,GBIF,B,yes,clear,yes,yes,unhealthy
+QA_156,4440819504_0.jpg,Qatar,GBIF,C,yes,partial,no,no,"low resolution, far distance, blurred"
+QA_157,5205882350_0.jpg,Qatar,GBIF,D,yes,partial,no,no,"low resolution, far distance"
+QA_158,4512077901_0.jpg,Qatar,GBIF,B,yes,clear,yes,yes,healthy/unhealthy
+QA_159,4506455537_0.jpg,Qatar,GBIF,D,yes,poor,no,no,"low resolution, far distance"
+QA_160,4516881411_0.jpg,Qatar,GBIF,C,yes,partial,no,no,"low resolution, far distance, blurred"
+QA_161,4512024534_0.jpg,Qatar,GBIF,B,yes,partial,yes,yes,healthy/unhealthy
+QA_162,4512024534_1.jpg,Qatar,GBIF,C,yes,partial,no,no,"low resolution, far distance"
+QA_163,4512024534_2.jpg,Qatar,GBIF,B,yes,partial,yes,yes,healthy/unhealthy
+QA_164,4512024534_3.jpg,Qatar,GBIF,C,yes,clear,yes,no,"low resolution, far distance"
+QA_165,4512172447_0.jpg,Qatar,GBIF,C,yes,partial,no,no,"low resolution, far distance"
+QA_166,3399296286_0.jpg,Qatar,GBIF,B,yes,partial,yes,yes,healthy/unhealthy
+QA_167,2543010407_0.jpg,Qatar,GBIF,C,yes,clear,no,no,"low resolution, far distance"
+QA_168,1839275450_0.jpg,Qatar,GBIF,C,yes,partial,no,no,"low resolution, far distance"
+QA_169,1839275450_1.jpg,Qatar,GBIF,C,yes,partial,no,no,"low resolution, far distance"
+QA_170,4512056306_0.jpg,Qatar,GBIF,D,yes,poor,no,no,non-grey mangrove
+QA_171,3415652327_0.jpg,Qatar,GBIF,C,yes,clear,yes,no,"low resolution, far distance"
+QA_172,4512031304_0.jpg,Qatar,GBIF,D,yes,poor,no,no,"low resolution, far distance"
+QA_173,4512151304_0.jpg,Qatar,GBIF,D,yes,poor,no,no,non-grey mangrove
+QA_174,5916146309_0.jpg,Qatar,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+QA_175,2542878014_0.jpg,Qatar,GBIF,C,yes,poor,no,no,"low resolution, far distance, dark"
+QA_176,2542878027_0.jpg,Qatar,GBIF,C,yes,clear,no,no,"low resolution, far distance"
+QA_177,3391508304_0.jpg,Qatar,GBIF,C,yes,partial,no,no,"low resolution, far distance, dark"
+QA_178,5916282142_0.jpg,Qatar,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+QA_179,5912273522_0.jpg,Qatar,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+QA_180,153151830_0fe4c0a66a_b.jpg,Qatar,Flickr,C,yes,partial,no,no,"low resolution, far distance"
+QA_181,475717586_3440f65dcb_o.jpg,Qatar,Flickr,C,yes,partial,no,no,"low resolution, far distance"
+QA_182,4279288406_7d4cc9061f_b.jpg,Qatar,Flickr,D,yes,poor,no,no,"low resolution, far distance"
+QA_183,4531877162_75903c8bfa_b.jpg,Qatar,Flickr,D,yes,poor,no,no,"low resolution, far distance"
+QA_184,5300013127_1dba2f0be2_c.jpg,Qatar,Flickr,C,yes,clear,no,no,low resolution
+QA_185,5539796827_a8555c0215_o.jpg,Qatar,Flickr,D,yes,partial,no,no,"low resolution, far distance"
+QA_186,5732298563_9b59688696_b.jpg,Qatar,Flickr,D,yes,partial,no,no,"low resolution, far distance"
+QA_187,6820339782_3f88770b8e_o.jpg,Qatar,Flickr,C,yes,clear,yes,no,low resolution
+QA_188,6820374080_69be6e2b21_o.jpg,Qatar,Flickr,C,yes,clear,yes,no,low resolution
+QA_189,6966462671_cbe8211c67_o.jpg,Qatar,Flickr,C,yes,clear,yes,no,low resolution
+QA_190,6966464797_7bda78f237_o.jpg,Qatar,Flickr,C,yes,partial,no,no,"low resolution, far distance"
+QA_191,8906545263_59c5eb36b5_b.jpg,Qatar,Flickr,D,yes,partial,no,no,"low resolution, far distance"
+QA_192,9210330282_ea178e9ae7_z.jpg,Qatar,Flickr,C,yes,clear,yes,no,low resolution
+QA_193,10909257443_56c8d1e59e_o.jpg,Qatar,Flickr,D,yes,partial,no,no,"low resolution, far distance"
+QA_194,15566191855_10a2e3e9a0_b.jpg,Qatar,Flickr,C,yes,clear,yes,no,low resolution
+QA_195,23332509219_b2c0b6569b_b.jpg,Qatar,Flickr,D,yes,partial,no,no,"low resolution, far distance"
+QA_196,36080463671_eb4b575315_o.jpg,Qatar,Flickr,C,yes,clear,yes,no,low resolution
+QA_197,36215639385_9572244de4_o.jpg,Qatar,Flickr,D,yes,partial,no,no,"low resolution, far distance"
+QA_198,36215641745_dee854d494_o.jpg,Qatar,Flickr,C,yes,partial,no,no,"low resolution, far distance"
+QA_199,36215670075_fb1b7d4b1a_o.jpg,Qatar,Flickr,C,yes,clear,yes,no,low resolution
+QA_200,46494897554_da9dc2d63e_o.jpg,Qatar,Flickr,C,yes,partial,no,no,"low resolution, far distance"
+QA_201,51099936105_70eb6feda4_b.jpg,Qatar,Flickr,D,yes,partial,no,no,"low resolution, far distance"
+QA_202,52802495983_1be8223783_o.jpg,Qatar,Flickr,C,yes,clear,yes,no,"low resolution, far distant"
+QA_203,54376358595_45ebf6478d_b.jpg,Qatar,Flickr,C,yes,clear,no,no,"low resolution, far distant"
+QA_204,Screenshot 2025-12-15 090608.png,Qatar,Flickr,B,yes,clear,yes,no,low resolution
+QA_205,Screenshot 2025-12-15 090701.png,Qatar,Flickr,B,yes,clear,yes,no,low resolution
+QA_206,Screenshot 2025-12-15 091048.png,Qatar,Flickr,C,yes,clear,yes,no, blurred
+QA_207,Screenshot 2025-12-15 091123.png,Qatar,Flickr,D,yes,poor,yes,no,low resolution
+QA_208,Screenshot 2025-12-15 091212.png,Qatar,Flickr,C,yes,clear,yes,no,low resolution
+QA_209,Screenshot 2025-12-15 091304.png,Qatar,Flickr,C,yes,clear,yes,no,low resolution
+QA_210,Screenshot 2025-12-15 091353.png,Qatar,Flickr,C,yes,clear,no,no,"low resolution, far distant"
+SA_001,591546302.jpg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_002,571339648.jpg,Saudia Arabia,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+SA_003,571340390.jpg,Saudia Arabia,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+SA_004,571340403.jpg,Saudia Arabia,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+SA_005,571340420.jpg,Saudia Arabia,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+SA_006,571340492.jpg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_007,571340533.jpg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_008,571340534.jpg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_009,554586670.jpg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_010,554586705.jpg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_011,554586143.jpg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_012,554586183.jpg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_013,554585746.jpg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,with flowers
+SA_014,540614329.jpg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_015,540614087.jpg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,under water 
+SA_016,498684046.jpg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,medium resolution
+SA_017,498682695.jpg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_018,498631970.jpg,Saudia Arabia,iNaturalist,B,yes,clear,yes,no,low-medium resolution
+SA_019,495150197.jpg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_020,478977554.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,no,no,low resolution/far distant
+SA_021,473833609.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,no,no,low resolution/far distant
+SA_022,473833640.jpeg,Saudia Arabia,iNaturalist,A,yes,clear,yes,yes,healthy/unhealthy
+SA_023,473833293.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,no,low-medium resolution
+SA_024,473833315.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,no,low-medium resolution
+SA_025,457284275.jpeg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_026,457284282.jpeg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_027,457284163.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,no,no,low resolution/far distant
+SA_028,457284128.jpeg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_029,457284151.jpeg,Saudia Arabia,iNaturalist,C,yes,partial,no,no,low resolution/far distant
+SA_030,457284157.jpeg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_031,457282719.jpeg,Saudia Arabia,iNaturalist,A,yes,clear,yes,yes,with flowers
+SA_032,457282736.jpeg,Saudia Arabia,iNaturalist,A,yes,clear,yes,yes,with flowers
+SA_033,438965449.jpeg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_034,420439858.jpg,Saudia Arabia,iNaturalist,B,yes,clear,yes,no,medium resolution
+SA_035,420439861.jpg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,with fruits
+SA_036,420439868.jpg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,"medium resolution, flower focused"
+SA_037,416961976.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_038,404030102.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_039,394897062.jpg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,"low resolution/far distant, dark"
+SA_040,394896890.jpg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,"low resolution/far distant, dark"
+SA_041,394896850.jpg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,"low resolution/far distant, dark"
+SA_042,394896671.jpg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,"low resolution/far distant, dark"
+SA_043,394896579.jpg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,"low resolution/far distant, dark"
+SA_044,393592394.jpeg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_045,393592333.jpeg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_046,393592445.jpeg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_047,393592443.jpeg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_048,393591971.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,no,medium resolution
+SA_049,393591977.jpeg,Saudia Arabia,iNaturalist,A,yes,clear,yes,yes,water drops
+SA_050,393592077.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,medium resolution
+SA_051,393591131.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_052,393591147.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,medium resolution
+SA_053,393591273.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,"medium resolution, unhealthy focused"
+SA_054,393590876.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_055,393590831.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,flowers available
+SA_056,393590947.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_057,393590202.jpeg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_058,393578671.jpeg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_059,393578938.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,no,no,low resolution/far distant
+SA_060,393579118.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution/far distant
+SA_061,393571227.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,no,no,low resolution/far distant
+SA_062,393571246.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,no,no,low resolution/far distant
+SA_063,393571217.jpeg,Saudia Arabia,iNaturalist,C,yes,partial,no,no,"low resolution, blurred"
+SA_064,393570790.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,no,no,low resolution/far distant
+SA_065,393570783.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_066,393570666.jpeg,Saudia Arabia,iNaturalist,C,yes,partial,yes,no,obscurred mainly by flowers
+SA_067,393570729.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,one unhealthy leaf focused other leaves on background
+SA_068,393570931.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,fruits and flowers available
+SA_069,393569961.jpeg,Saudia Arabia,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+SA_070,393570205.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_071,393570283.jpeg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_072,393570430.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,no,low-medium resolution
+SA_073,393570503.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,medium resolution
+SA_074,393570378.jpeg,Saudia Arabia,iNaturalist,A,yes,clear,yes,yes,one unhealthy leaf
+SA_075,393570481.jpeg,Saudia Arabia,iNaturalist,D,yes,partial,no,no,less than 30% of leaf present
+SA_076,391538399.jpg,Saudia Arabia,iNaturalist,C,yes,partial,no,no,"low resolution/far distant, dark"
+SA_077,390814482.jpg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_078,390814533.jpg,Saudia Arabia,iNaturalist,A,yes,clear,yes,yes,healthy/unhealthy
+SA_079,390800071.jpg,Saudia Arabia,iNaturalist,C,yes,clear,no,no,low resolution/far distant
+SA_080,390800165.jpg,Saudia Arabia,iNaturalist,C,yes,clear,no,no,low resolution/far distant
+SA_081,390800259.jpg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low-medium resolution
+SA_082,374077629.jpg,Saudia Arabia,iNaturalist,C,yes,clear,no,no,low resolution/far distant
+SA_083,374077039.jpg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low-medium resolution
+SA_084,357704410.jpeg,Saudia Arabia,iNaturalist,C,yes,partial,yes,no,"low resolution, blurred"
+SA_085,357704422.jpeg,Saudia Arabia,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+SA_086,357704419.jpeg,Saudia Arabia,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+SA_087,357704431.jpeg,Saudia Arabia,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+SA_088,352962602.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,"with fruits, medium resolution"
+SA_089,344774307.jpeg,Saudia Arabia,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+SA_090,344774309.jpeg,Saudia Arabia,iNaturalist,A,yes,clear,yes,yes,medium resolution
+SA_091,344774305.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,medium resolution
+SA_092,342878296.jpeg,Saudia Arabia,iNaturalist,C,yes,partial,no,no,low resolution/far distant
+SA_093,342878295.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,no,medium resolution
+SA_094,342878304.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,medium resolution
+SA_095,332353224.jpeg,Saudia Arabia,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+SA_096,271171234.jpg,Saudia Arabia,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+SA_097,262362086.jpeg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,"healthy/unhealthy, medium resolution"
+SA_098,261606777.jpg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low-medium resolution
+SA_099,250146541.jpg,Saudia Arabia,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+SA_100,248837388.jpg,Saudia Arabia,iNaturalist,C,yes,partial,no,no,low resolution/far distant
+SA_101,247180343.jpeg,Saudia Arabia,iNaturalist,C,yes,partial,no,no,"low resolution/far distant, blurred"
+SA_102,247180356.jpeg,Saudia Arabia,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+SA_103,208302566.jpg,Saudia Arabia,iNaturalist,C,yes,clear,no,no,low resolution
+SA_104,208302590.jpg,Saudia Arabia,iNaturalist,C,yes,partial,no,no,low resolution/far distant
+SA_105,208302633.jpg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution/far distant
+SA_106,208302675.jpg,Saudia Arabia,iNaturalist,C,yes,partial,no,no,low resolution/far distant
+SA_107,207650820.jpg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,healthy/unhealthy
+SA_108,167740835.jpg,Saudia Arabia,iNaturalist,B,yes,clear,yes,no,blurred image
+SA_109,35556861.jpg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,"medium resolution, healthy/unhealthy"
+SA_110,35556865.jpg,Saudia Arabia,iNaturalist,B,yes,clear,yes,no,"medium resolution, healthy/unhealthy"
+SA_111,27783962.jpg,Saudia Arabia,iNaturalist,C,yes,clear,no,no,low resolution
+SA_112,4462110.jpg,Saudia Arabia,iNaturalist,B,yes,clear,yes,yes,healthy/unhealthy
+SA_113,4462111.jpg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution
+SA_114,4462112.jpg,Saudia Arabia,iNaturalist,A,yes,clear,yes,yes,little blurred
+SA_115,4462113.jpg,Saudia Arabia,iNaturalist,B,yes,clear,yes,no,"medium resolution, healthy/unhealthy"
+SA_116,4462114.jpg,Saudia Arabia,iNaturalist,C,yes,clear,yes,no,low resolution/far distant
+SA_117,4462115.jpg,Saudia Arabia,iNaturalist,C,yes,partial,no,no,low resolution/far distant
+SA_118,4462116.jpg,Saudia Arabia,iNaturalist,C,yes,partial,no,no,"low resolution/far distant, dark"
+SA_119,5087466392_0.jpg,Saudia Arabia,GBIF,C,yes,clear,yes,no,low resolution/far distant
+SA_120,5087466392_1.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy/unhealthy
+SA_121,5167773896_0.jpg,Saudia Arabia,GBIF,B,yes,clear,yes,no,low - medium resolution
+SA_122,5167773896_1.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,no, blurred
+SA_123,5168133111_0.jpg,Saudia Arabia,GBIF,C,yes,clear,yes,no,low resolution
+SA_124,5153125462_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,no,low - medium resolution
+SA_125,5153396452_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,medium resolution
+SA_126,5154832221_0.jpg,Saudia Arabia,GBIF,C,yes,clear,yes,no,low resolution/far distant
+SA_127,5837770879_0.jpg,Saudia Arabia,GBIF,D,yes,partial,no,no,low resolution/far distant
+SA_128,5837770879_1.jpg,Saudia Arabia,GBIF,D,yes,partial,no,no,low resolution/far distant
+SA_129,5837770879_2.jpg,Saudia Arabia,GBIF,D,yes,partial,no,no,low resolution/far distant
+SA_130,5837770879_3.jpg,Saudia Arabia,GBIF,D,yes,partial,no,no,low resolution/far distant
+SA_131,5837770879_4.jpg,Saudia Arabia,GBIF,D,yes,partial,no,no,low resolution/far distant
+SA_132,5837770879_5.jpg,Saudia Arabia,GBIF,D,yes,partial,no,no,low resolution/far distant
+SA_133,5837770879_6.jpg,Saudia Arabia,GBIF,D,yes,partial,no,no,low resolution/far distant
+SA_134,5897815109_0.jpg,Saudia Arabia,GBIF,C,yes,clear,yes,no,low resolution/far distant
+SA_135,4908721679_0.jpg,Saudia Arabia,GBIF,C,yes,clear,yes,no,low resolution/far distant
+SA_136,4924050866_0.jpg,Saudia Arabia,GBIF,C,yes,clear,yes,no,low resolution/far distant
+SA_137,4926329442_0.jpg,Saudia Arabia,GBIF,B,yes,clear,yes,yes,"medium resolution, flower focused"
+SA_138,4926329442_1.jpg,Saudia Arabia,GBIF,B,yes,clear,yes,no,"low - medium resolution, flowers and fruits"
+SA_139,4926329442_2.jpg,Saudia Arabia,GBIF,B,yes,clear,yes,yes,"medium resolution, fruits"
+SA_140,4952641277_0.jpg,Saudia Arabia,GBIF,D,yes,partial,no,no,low resolution/far distant
+SA_141,3949210603_0.jpg,Saudia Arabia,GBIF,B,yes,clear,yes,yes,"medium resolution, flowers"
+SA_142,3949210603_1.jpg,Saudia Arabia,GBIF,B,yes,clear,yes,no,"low - medium resolution, flowers"
+SA_143,3949210603_2.jpg,Saudia Arabia,GBIF,B,yes,partial,yes,yes," medium resolution, flowers, partial"
+SA_144,5760564119_0.jpg,Saudia Arabia,GBIF,B,yes,clear,yes,yes,"medium resolution, flowers"
+SA_145,5230883310_0.jpg,Saudia Arabia,GBIF,C,yes,clear,no,no,low resolution/far distant
+SA_146,5230883310_1.jpg,Saudia Arabia,GBIF,C,yes,clear,yes,no,under water 
+SA_147,1291670093_0.jpg,Saudia Arabia,GBIF,C,yes,clear,no,no,"low resolution/far distant, dark"
+SA_148,1291670093_1.jpg,Saudia Arabia,GBIF,C,yes,partial,no,no,low resolution/far distant
+SA_149,1291670093_2.jpg,Saudia Arabia,GBIF,C,yes,clear,yes,no,low resolution/far distant
+SA_150,1291670093_3.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy/unhealthy
+SA_151,1291670093_4.jpg,Saudia Arabia,GBIF,C,yes,clear,yes,no,low resolution
+SA_152,1291670093_5.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,little blurred
+SA_153,1291670093_6.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,little blurred
+SA_154,3312562140_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,no,low resolution study leaf samples 
+SA_156,3312562140_2.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy\unhealthy high resolution study leaf samples 
+SA_157,3312562194_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,no,low resolution study leaf samples 
+SA_160,3312562188_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,no,low resolution study leaf samples 
+SA_162,3312562188_2.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy\unhealthy high resolution study leaf samples 
+SA_163,3312562191_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,no,low resolution study leaf samples 
+SA_165,3312562144_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy\unhealthy high resolution study leaf samples 
+SA_166,3312562144_1.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,no,low resolution study leaf samples 
+SA_169,3312562169_1.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy\unhealthy high resolution study leaf samples 
+SA_170,3312562169_2.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,no,low resolution study leaf samples 
+SA_171,5916694783_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+SA_172,5916355633_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+SA_173,5913806978_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+SA_174,5914291460_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+SA_175,5914950225_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+SA_176,5914983380_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+SA_177,5915038360_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+SA_178,5915152360_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+SA_179,5916549312_0.jpg,Saudia Arabia,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+OM_001,596192463.jpg,Oman,iNaturalist,B,yes,clear,yes,yes,"healthy/unhealthy, sea grass"
+OM_002,588076927.jpg,Oman,iNaturalist,C,yes,clear,yes,no,low resolution
+OM_003,578850997.jpg,Oman,iNaturalist,A,yes,clear,yes,yes,medium resolution
+OM_004,547327812.jpg,Oman,iNaturalist,C,yes,clear,yes,no,low resolution
+OM_005,546825487.jpg,Oman,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+OM_006,546825525.jpg,Oman,iNaturalist,B,yes,clear,yes,no,medium resolution
+OM_007,546825542.jpg,Oman,iNaturalist,C,yes,clear,yes,no,low resolution
+OM_008,546825207.jpg,Oman,iNaturalist,B,yes,clear,yes,no,low resolution
+OM_009,546825225.jpg,Oman,iNaturalist,B,yes,clear,yes,no,low resolution
+OM_010,544874837.jpg,Oman,iNaturalist,A,yes,clear,yes,yes,"healthy/unhealthy, flowers"
+OM_011,522920322.jpg,Oman,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+OM_012,522918858.jpg,Oman,iNaturalist,C,yes,clear,yes,no,low resolution
+OM_013,475046795.jpg,Oman,iNaturalist,B,yes,partial,yes,yes,"one healthy leaf, flowers"
+OM_014,468833867.jpeg,Oman,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+OM_015,468501184.jpg,Oman,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+OM_016,467253799.jpg,Oman,iNaturalist,C,yes,clear,yes,no,low resolution
+OM_017,466356607.jpeg,Oman,iNaturalist,A,yes,clear,yes,yes,"healthy/unhealthy, flowers"
+OM_018,466356627.jpeg,Oman,iNaturalist,C,yes,clear,yes,no,low resolution
+OM_019,466215967.jpeg,Oman,iNaturalist,C,yes,clear,no,no,low resolution
+OM_020,455961324.jpg,Oman,iNaturalist,C,yes,clear,yes,no,low - medium resolution
+OM_021,352317412.jpeg,Oman,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+OM_022,352317424.jpeg,Oman,iNaturalist,A,yes,clear,yes,no,medium resolution
+OM_023,352317441.jpeg,Oman,iNaturalist,B,yes,clear,yes,no,low resolution
+OM_024,352317452.jpeg,Oman,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+OM_025,352317468.jpeg,Oman,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+OM_026,352317808.jpeg,Oman,iNaturalist,C,yes,clear,yes,no,low resolution
+OM_027,352317824.jpeg,Oman,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+OM_028,352195873.jpeg,Oman,iNaturalist,B,yes,partial,yes,yes,"one unhealthy leaf, flowers"
+OM_029,352195911.jpeg,Oman,iNaturalist,B,yes,clear,yes,no,low resolution
+OM_030,352195948.jpeg,Oman,iNaturalist,A,yes,clear,yes,yes,"healthy/unhealthy, fruits"
+OM_031,338751284.jpeg,Oman,iNaturalist,A,yes,clear,yes,yes,"healthy/unhealthy, flowers"
+OM_032,338751345.jpeg,Oman,iNaturalist,B,yes,clear,yes,no,low resolution
+OM_033,329448058.jpeg,Oman,iNaturalist,D,yes,partial,no,no,low resolution/far distant
+OM_034,319424717.jpeg,Oman,iNaturalist,D,yes,poor,no,no,low resolution/far distant
+OM_035,234154009.jpeg,Oman,iNaturalist,B,yes,partial,yes,yes,flowers focused
+OM_036,102165198.jpeg,Oman,iNaturalist,C,yes,clear,yes,no,low resolution/far distant
+OM_037,102165247.jpeg,Oman,iNaturalist,B,yes,partial,yes,yes,"unhealthy, flowers"
+OM_038,102165304.jpeg,Oman,iNaturalist,B,yes,clear,yes,no,low resolution
+OM_039,102165351.jpeg,Oman,iNaturalist,B,yes,clear,yes,yes,"medium resolution, fruits and flowers"
+OM_040,77201443.jpeg,Oman,iNaturalist,A,yes,clear,yes,yes,healthy/unhealthy
+OM_041,5167421841_0.jpg,Oman,GBIF,B,yes,clear,yes,no,low resolution
+OM_042,5167421841_1.jpg,Oman,GBIF,A,yes,clear,yes,yes,flowers focused
+OM_043,5889456236_0.jpg,Oman,GBIF,C,yes,clear,no,no,low resolution/far distant
+OM_044,5892893572_0.jpg,Oman,GBIF,C,yes,clear,no,no,low resolution/far distant
+OM_045,5281767429_0.jpg,Oman,GBIF,B,yes,clear,yes,no,low resolution
+OM_046,5281767429_1.jpg,Oman,GBIF,B,yes,clear,yes,no,low resolution
+OM_047,5281855177_0.jpg,Oman,GBIF,C,yes,clear,no,no,low resolution
+OM_048,5282531396_0.jpg,Oman,GBIF,C,yes,clear,yes,no,low resolution
+OM_049,5282531396_1.jpg,Oman,GBIF,C,yes,clear,yes,no,low - medium resolution
+OM_050,5282531396_2.jpg,Oman,GBIF,B,yes,clear,yes,no,medium resolution
+OM_051,4516591839_0.jpg,Oman,GBIF,B,yes,clear,yes,no,low resolution
+OM_052,4516591839_1.jpg,Oman,GBIF,B,yes,clear,yes,yes,"healthy/unhealthy, flowers"
+OM_053,3717090999_0.jpg,Oman,GBIF,A,yes,clear,yes,yes,medium resolution
+OM_054,3923447174_0.jpg,Oman,GBIF,B,yes,partial,yes,yes,flowers focused
+OM_055,5087619167_1.jpg,Oman,GBIF,B,yes,partial,yes,yes,"one healthy leaf, flowers"
+OM_056,3312562178_0.jpg,Oman,GBIF,A,yes,clear,yes,yes,high resolution study leaf samples 
+OM_057,3312562178_2.jpg,Oman,GBIF,A,yes,clear,yes,no,low resolution study leaf samples 
+OM_058,3312562148_1.jpg,Oman,GBIF,A,yes,clear,yes,yes,high resolution study leaf samples 
+OM_059,3312562151_1.jpg,Oman,GBIF,A,yes,clear,yes,yes,high resolution study leaf samples 
+OM_060,3312562151_2.jpg,Oman,GBIF,A,yes,clear,yes,no,low resolution study leaf samples 
+OM_061,5915739915_0.jpg,Oman,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+OM_062,5916633697_0.jpg,Oman,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+OM_063,2236194228_0.jpg,Oman,GBIF,A,yes,clear,yes,no,low resolution study leaf samples 
+OM_064,3312562163_0.jpg,Oman,GBIF,A,yes,clear,yes,no,low resolution study leaf samples 
+OM_065,3312562163_2.jpg,Oman,GBIF,A,yes,clear,yes,yes,high resolution study leaf samples 
+OM_066,5915998130_0.jpg,Oman,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+OM_067,5915339220_0.jpg,Oman,GBIF,A,yes,clear,yes,yes,healthy\unhealthy very high resolution study leaf samples 
+OM_068,2546799_96e303719f_c.jpg,Oman,Flickr,D,yes,partial,no,no,low resolution/far distant
+OM_069,2940868925_b99d62b8a9_o.jpg,Oman,Flickr,D,yes,partial,no,no,low resolution/far distant
+OM_070,5793313366_aed94c5229_z.jpg,Oman,Flickr,D,yes,poor,no,no,low resolution/far distant
+OM_071,8332019455_9f2e8d6909_o.jpg,Oman,Flickr,A,yes,clear,yes,yes,medium resolution
+OM_072,8333076918_6a3b4cb542_o.jpg,Oman,Flickr,C,yes,clear,yes,no,low resolution
+OM_073,49468049341_707bdf6af8_b.jpg,Oman,Flickr,C,yes,clear,yes,no,low resolution
+UAE_001,598368334.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_002,597802629.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,medium resolution
+UAE_003,597802624.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,"medium resolution, flowers"
+UAE_004,597470245.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_005,597400634.jpg,UAE,iNaturalist,C,yes,clear,no,no,"low resolution, far distant"
+UAE_006,597400669.jpg,UAE,iNaturalist,C,yes,clear,no,no,"low resolution, far distant"
+UAE_007,597400699.jpg,UAE,iNaturalist,C,yes,clear,no,no,"low resolution, far distant"
+UAE_008,597400720.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_009,597400745.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_010,597400781.jpg,UAE,iNaturalist,C,yes,clear,no,no,"low resolution, far distant"
+UAE_011,597400806.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_012,597400828.jpg,UAE,iNaturalist,C,yes,clear,no,no,"low resolution, far distant"
+UAE_013,597400883.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_014,597400923.jpg,UAE,iNaturalist,C,yes,clear,no,no,"low resolution, far distant"
+UAE_015,597400953.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_016,597400980.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_017,596643908.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,"partial parts, medium resolution"
+UAE_018,596643944.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,medium resolution
+UAE_019,595502925.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_020,595499350.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_021,595499126.jpg,UAE,iNaturalist,C,yes,clear,no,no,"low resolution, far distant"
+UAE_022,594621309.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_023,594621601.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_024,593657356.jpg,UAE,iNaturalist,D,yes,partial,no,no,low resolution
+UAE_025,593652048.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_026,591610759.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_027,591610850.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_028,591610969.jpg,UAE,iNaturalist,C,yes,clear,yes,no,human hand focused
+UAE_029,591611009.jpg,UAE,iNaturalist,C,yes,clear,yes,yes,human hand focused
+UAE_030,591194911.jpg,UAE,iNaturalist,C,yes,clear,yes,no,"low resolution, far distant"
+UAE_031,591365457.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_032,591365504.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_033,590405589.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_034,583651832.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,"low - medium resolution, tree parts"
+UAE_035,583651830.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,"low - medium resolution, tree parts"
+UAE_036,583651834.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_037,582089188.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_038,582089213.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_039,582089227.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_040,582089242.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_041,582089252.jpg,UAE,iNaturalist,D,yes,clear,no,no,"low resolution, far distant"
+UAE_042,577832862.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_043,577832277.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_044,577832341.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_045,577832239.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_046,577831920.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_047,577831786.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_048,577830384.jpg,UAE,iNaturalist,C,yes,partial,yes,no,"flowers focused, partial leaf visible"
+UAE_049,577830180.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_050,577830196.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_051,577735934.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_052,577201829.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_053,577201580.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,medium resolution
+UAE_054,577201638.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_055,577201738.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_056,577201705.jpg,UAE,iNaturalist,D,yes,clear,no,no,"low resolution, far distant"
+UAE_057,577201486.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,fruits
+UAE_058,577201561.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,fruits
+UAE_059,577117441.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_060,577117535.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_061,569624303.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_062,543232676.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_063,538202815.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,fruits
+UAE_064,538202859.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_065,538202892.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_066,519828478.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,"low - medium resolution, flowers"
+UAE_067,512738542.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_068,512738553.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_069,512218670.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_070,512217784.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_071,512217499.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_072,512217447.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_073,512217413.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,
+UAE_074,512217423.jpg,UAE,iNaturalist,D,yes,clear,yes,no,low resolution
+UAE_075,512215062.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_076,511974327.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_077,511970710.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_078,510672875.jpg,UAE,iNaturalist,D,yes,partial,no,no,flowers focused
+UAE_079,510672925.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_080,508651376.jpg,UAE,iNaturalist,B,yes,clear,yes,no,"low resolution, flowers"
+UAE_081,508651420.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_082,502743353.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_083,502723480.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,"low - medium resolution, flowers"
+UAE_084,502635483.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_085,500774284.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_086,500774025.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_087,500774014.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_088,498950668.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_089,493693234.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,"low - medium resolution, flowers"
+UAE_090,493693357.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_091,492037917.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_092,491998527.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_093,491316955.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_094,491317114.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_095,491317284.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_096,491317395.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_097,491317519.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_098,486425925.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_099,486426626.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_100,486426655.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_101,482047259.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_102,477798653.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_103,477586570.jpeg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_104,477586633.jpeg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_105,477586695.jpeg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_106,477586778.jpeg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_107,477586905.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_108,476983100.jpeg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_109,476981449.jpeg,UAE,iNaturalist,D,yes,clear,yes,no,low resolution
+UAE_110,476934436.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_111,476934539.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_112,476934572.jpeg,UAE,iNaturalist,D,yes,clear,yes,no,low resolution
+UAE_113,475004548.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_114,475004547.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_115,475004543.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_116,474559058.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_117,474559056.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_118,474559039.jpg,UAE,iNaturalist,C,yes,clear,no,no,"low resolution, far distant"
+UAE_119,471365163.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_120,471365186.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,"low resolution, far distant"
+UAE_121,471110981.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_122,470981333.jpeg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_123,470981347.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,"low resolution, far distant"
+UAE_124,469934796.jpeg,UAE,iNaturalist,C,yes,clear,no,no,"low resolution, far distant"
+UAE_125,469934811.jpeg,UAE,iNaturalist,C,yes,clear,no,no,"low resolution, far distant"
+UAE_126,465109276.jpg,UAE,iNaturalist,B,yes,clear,yes,no,"low resolution, suspect species"
+UAE_127,465109288.jpg,UAE,iNaturalist,B,yes,clear,yes,no,"low resolution, suspect species"
+UAE_128,460848504.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,low - medium resolution
+UAE_129,460848442.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_130,459305682.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_131,457043744.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_132,457043762.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_133,457043784.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,healthy/unhealthy
+UAE_134,457043799.jpeg,UAE,iNaturalist,D,yes,partial,yes,no,"low resolution, little blurred"
+UAE_135,456892797.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_136,456858197.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_137,456858213.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_138,456857956.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,medium resolution
+UAE_139,456857974.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,medium resolution
+UAE_140,456856739.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_141,456360373.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_142,456360389.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_143,456360398.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_144,456360416.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_145,456360439.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_146,456360466.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant, night"
+UAE_147,455845751.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, blurred"
+UAE_148,455845782.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, blurred"
+UAE_149,452454101.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_150,452454132.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_151,452454164.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_152,452414921.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_153,450697205.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,"low resolution, blurred"
+UAE_154,450696982.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_155,450696957.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_156,448348392.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_157,448324821.jpeg,UAE,iNaturalist,A,yes,clear,yes,no,low - medium resolution
+UAE_158,446810524.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_159,444533071.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_160,444533131.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_161,443909084.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_162,441668862.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,flowers
+UAE_163,441668889.jpeg,UAE,iNaturalist,A,yes,clear,yes,no,"low - medium resolution, flowers"
+UAE_164,440614628.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_165,440614625.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_166,439077332.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,"low resolution, night"
+UAE_167,438917215.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_168,438865891.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_169,438551676.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_170,438535553.jpeg,UAE,iNaturalist,D,yes,partial,no,no,low resolution
+UAE_171,438535653.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_172,438535690.jpeg,UAE,iNaturalist,D,yes,partial,no,no,low resolution
+UAE_173,437789358.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low  resolution
+UAE_174,436105729.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low  resolution
+UAE_175,436105755.jpeg,UAE,iNaturalist,A,yes,clear,yes,no,low - medium resolution
+UAE_176,436084108.jpeg,UAE,iNaturalist,D,yes,clear,no,no,low resolution
+UAE_177,429406784.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low - medium resolution
+UAE_178,416306340.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,"flowers, partial leaves (70%)"
+UAE_179,416306390.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,"low resolution, roots"
+UAE_180,416272653.jpeg,UAE,iNaturalist,D,yes,clear,no,no,"low resolution, far distant"
+UAE_181,416273620.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,low - medium resolution
+UAE_182,416273649.jpeg,UAE,iNaturalist,D,yes,partial,no,no,low resolution
+UAE_183,416273681.jpeg,UAE,iNaturalist,D,yes,partial,no,no,low resolution
+UAE_184,395636933.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,flowers
+UAE_185,391266050.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,"medium resolution, flowers"
+UAE_186,391266053.jpg,UAE,iNaturalist,B,yes,clear,yes,no,"low resolution, flowers"
+UAE_187,391266057.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_188,391266069.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_189,359055685.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_190,359043681.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_191,358848186.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_192,353971594.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_193,353970927.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_194,349427900.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,low - medium resolution
+UAE_195,349427905.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_196,342177717.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_197,341774776.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_198,341774832.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_199,341040043.jpeg,UAE,iNaturalist,D,yes,partial,no,no,low resolution
+UAE_200,337307625.jpg,UAE,iNaturalist,D,yes,partial,no,no,low resolution
+UAE_201,334930334.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_202,334931232.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_203,334930419.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_204,332726401.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_205,332726394.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_206,332726417.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_207,296127528.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_208,296127576.jpeg,UAE,iNaturalist,D,yes,partial,no,no,low resolution
+UAE_209,295389248.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_210,280874405.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_211,277745787.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,low - medium resolution
+UAE_212,277745792.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,unhealthy one leaf
+UAE_213,277745727.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_214,272406808.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_215,266822814.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_216,266822857.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_217,266822891.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_218,266822936.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_219,265513663.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,"medium resolution, flowers"
+UAE_220,265397055.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_221,265290943.jpeg,UAE,iNaturalist,D,yes,clear,no,no,"low resolution, blurred"
+UAE_222,265290979.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_223,265275304.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_224,265275358.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_225,264355117.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_226,260590056.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_227,258838130.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,low - medium resolution
+UAE_228,258838151.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,low - medium resolution
+UAE_229,258838169.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,human fingers
+UAE_230,254466608.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_231,252814774.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_232,252272551.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_233,250477054.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_234,250124208.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_235,250124000.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_236,249627294.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_237,249627243.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_238,248720499.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_239,243499077.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_240,243499033.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low - medium resolution
+UAE_241,243499041.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_242,243499057.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_243,242168128.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_244,242168147.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_245,237926619.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_246,237926644.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_247,231358169.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_248,226840284.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,fruits
+UAE_249,226840350.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_250,219186948.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,flowers
+UAE_251,219186977.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_252,194940541.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_253,183099596.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_254,181340490.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_255,180115907.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_256,180114812.jpeg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_257,176885999.jpg,UAE,iNaturalist,A,yes,clear,yes,yes,low - medium resolution
+UAE_258,174822958.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_259,134356448.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,"flowers, leaf side view"
+UAE_260,134355930.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low  resolution
+UAE_261,132346433.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,flowers
+UAE_262,132346562.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,flowers
+UAE_263,132346680.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,flowers
+UAE_264,110938019.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,focused on 80% of unhealthy leaf 
+UAE_265,108175105.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_266,108175114.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, poor light"
+UAE_267,108175115.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, poor light"
+UAE_268,108175119.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,medium  resolution
+UAE_269,108175125.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_270,108175128.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_271,108175133.jpeg,UAE,iNaturalist,A,yes,clear,yes,yes,
+UAE_272,63113782.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_273,61878557.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low  resolution
+UAE_274,61878286.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low  resolution
+UAE_275,61764460.jpeg,UAE,iNaturalist,A,yes,partial,yes,yes,focused on only 50% of the leaf
+UAE_276,61764462.jpeg,UAE,iNaturalist,A,yes,partial,yes,yes,focused on only 50% of the leaf
+UAE_277,61764463.jpeg,UAE,iNaturalist,A,yes,partial,yes,yes,focused on only 50% of the leaf
+UAE_278,61478210.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_279,58269771.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_280,51721857.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,fruits
+UAE_281,51721747.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_282,51721940.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_283,51602393.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_284,51602389.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_285,38131441.jpg,UAE,iNaturalist,B,yes,clear,yes,no,"flower focused, leaves blurred background"
+UAE_286,38131476.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_287,34419222.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,"flower focused, leaves blurred background"
+UAE_288,34419216.jpeg,UAE,iNaturalist,B,yes,clear,no,no,low resolution
+UAE_289,34419214.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,spider net visible
+UAE_290,34419229.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,flowers
+UAE_291,34419231.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,
+UAE_292,33535580.jpg,UAE,iNaturalist,C,yes,partial,no,no,low resolution
+UAE_293,33535584.jpg,UAE,iNaturalist,C,yes,partial,no,no,low resolution
+UAE_294,33535585.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_295,33535588.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_296,33535590.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_297,33535594.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_298,33535596.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low resolution
+UAE_299,33535600.jpg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_300,33534425.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant, roots"
+UAE_301,33534426.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,medium resolution
+UAE_302,33534427.jpg,UAE,iNaturalist,B,yes,clear,yes,yes,medium resolution
+UAE_303,33534440.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant, roots"
+UAE_304,33079016.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_305,29370104.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_306,29370109.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_307,26334077.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_308,26334114.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_309,19543361.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,medium resolution
+UAE_310,19543363.jpeg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_311,19543422.jpeg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_312,17629267.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_313,7849741.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,"medium resolution, flowers"
+UAE_314,7849744.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,"medium resolution, flowers"
+UAE_315,6250433.jpeg,UAE,iNaturalist,B,yes,clear,yes,no,low - medium resolution
+UAE_316,3678589.jpeg,UAE,iNaturalist,C,yes,clear,no,no,"low resolution, far distant"
+UAE_317,3526269.JPG,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_318,3138422.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_319,3138423.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_320,3138424.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant, dark"
+UAE_321,3138425.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant, dark"
+UAE_322,3104211.jpg,UAE,iNaturalist,D,yes,partial,no,no,"low resolution, far distant"
+UAE_323,3104212.jpg,UAE,iNaturalist,C,yes,clear,yes,no,low resolution
+UAE_324,3103345.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_325,3103346.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_326,3103347.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_327,3103348.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_328,3103349.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_329,3103350.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_330,3099456.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_331,3099457.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_332,3098484.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_333,3098485.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_334,3098486.jpg,UAE,iNaturalist,D,yes,poor,no,no,"low resolution, far distant"
+UAE_335,3074610.jpeg,UAE,iNaturalist,B,yes,clear,yes,yes,medium resolution
+UAE_336,3074617.jpeg,UAE,iNaturalist,C,yes,clear,no,no,low resolution
+UAE_337,2524111.jpg,UAE,iNaturalist,C,yes,clear,no,no,low resolution
+UAE_338,5069869347_0.jpg,UAE,GBIF,C,yes,clear,no,no,low resolution - far distant
+UAE_339,5069869347_1.jpg,UAE,GBIF,C,yes,clear,no,no,low resolution - far distant
+UAE_340,5076959435_0.jpg,UAE,GBIF,C,yes,clear,yes,yes,medium resolution
+UAE_341,5076959435_1.jpg,UAE,GBIF,C,yes,clear,no,no,low resolution - far distant
+UAE_342,5087194159_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low - medium resolution
+UAE_343,5087639698_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_344,5087639698_1.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_345,5087639698_2.jpg,UAE,GBIF,C,yes,partial,no,no,low resolution
+UAE_346,5087878732_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_347,5087878732_1.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_348,5087878732_2.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_349,5088062522_0.jpg,UAE,GBIF,C,yes,partial,no,no,low resolution - far distant
+UAE_350,5104386172_0.jpg,UAE,GBIF,B,yes,clear,yes,yes,medium resolution
+UAE_351,5759895255_0.jpg,UAE,GBIF,C,yes,clear,yes,no,"low resolution, little blurred"
+UAE_352,5759895255_1.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_353,5759895255_2.jpg,UAE,GBIF,D,yes,poor,no,no,"low resolution, far distant"
+UAE_354,5759895255_5.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_355,5759895255_6.jpg,UAE,GBIF,D,yes,poor,no,no,"low resolution, far distant"
+UAE_356,5140217890_0.jpg,UAE,GBIF,C,yes,partial,no,no,low resolution - far distant
+UAE_357,5140217890_1.jpg,UAE,GBIF,B,yes,clear,yes,yes,
+UAE_358,5140217890_2.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_359,5140217890_3.jpg,UAE,GBIF,A,yes,clear,yes,yes,
+UAE_360,5140217890_4.jpg,UAE,GBIF,C,yes,partial,no,no,low resolution - far distant
+UAE_361,5153015795_0.jpg,UAE,GBIF,B,yes,clear,yes,yes,
+UAE_362,5153337532_0.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_363,5154174574_0.jpg,UAE,GBIF,B,yes,clear,yes,yes,medium resolution
+UAE_364,5154174574_1.jpg,UAE,GBIF,D,yes,poor,no,no,"low resolution, far distant"
+UAE_365,5761004279_0.jpg,UAE,GBIF,D,yes,poor,no,no,"low resolution, far distant"
+UAE_366,5761004279_1.jpg,UAE,GBIF,D,yes,poor,no,no,"low resolution, far distant"
+UAE_367,5761004279_2.jpg,UAE,GBIF,C,yes,partial,no,no,"low resolution, far distant"
+UAE_368,5154800374_0.jpg,UAE,GBIF,B,yes,clear,yes,yes,low - medium resolution
+UAE_369,5154873594_0.jpg,UAE,GBIF,B,yes,clear,yes,yes,medium resolution
+UAE_370,5154941692_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_371,5167813165_1.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_372,5168095610_0.jpg,UAE,GBIF,B,yes,clear,yes,no,low - medium resolution
+UAE_373,5168095610_1.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_374,5176701264_0.jpg,UAE,GBIF,D,yes,clear,no,no,low resolution
+UAE_375,5177119716_0.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_376,5177119716_1.jpg,UAE,GBIF,D,yes,poor,no,no,"low resolution, far distant"
+UAE_377,5230552719_0.jpg,UAE,GBIF,B,yes,clear,yes,no,low - medium resolution
+UAE_378,5230552719_1.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_379,5230552719_2.jpg,UAE,GBIF,B,yes,clear,yes,yes,
+UAE_380,5231036705_0.jpg,UAE,GBIF,D,yes,poor,no,no,"low resolution, far distant"
+UAE_381,5231245691_0.jpg,UAE,GBIF,D,yes,poor,no,no,"low resolution, far distant"
+UAE_382,5198341948_0.jpg,UAE,GBIF,B,yes,clear,yes,yes,medium resolution
+UAE_383,5237712618_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_384,5237712618_1.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_385,5237712618_2.jpg,UAE,GBIF,B,yes,clear,yes,yes,fruits
+UAE_386,5840025676_0.jpg,UAE,GBIF,B,yes,clear,yes,no,low resolution
+UAE_387,5840025676_1.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_388,5868089885_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution - far distant
+UAE_389,5868089885_1.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_390,5868089885_2.jpg,UAE,GBIF,D,yes,poor,no,no,"low resolution, far distant"
+UAE_391,5868089885_3.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_392,5868089885_4.jpg,UAE,GBIF,D,yes,poor,no,no,"low resolution, far distant"
+UAE_393,5889283037_0.jpg,UAE,GBIF,B,yes,clear,yes,yes,
+UAE_394,5889283037_1.jpg,UAE,GBIF,B,yes,clear,yes,yes,
+UAE_395,5889283037_2.jpg,UAE,GBIF,B,yes,clear,yes,no,low - medium resolution
+UAE_396,5903745300_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_397,4528410345_0.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_398,4891898335_0.jpg,UAE,GBIF,B,yes,clear,yes,yes,flowers
+UAE_399,4891898335_1.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_400,4891898335_2.jpg,UAE,GBIF,C,yes,clear,yes,no,low - medium resolution
+UAE_401,4891898335_3.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_402,4922006903_0.jpg,UAE,GBIF,B,yes,clear,yes,yes,flowers
+UAE_403,4922006903_1.jpg,UAE,GBIF,B,yes,clear,yes,yes,"roots, upperside one leaf, background"
+UAE_404,4952509546_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_405,4954520370_0.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_406,4954520370_1.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_407,5104314847_0.jpg,UAE,GBIF,D,yes,poor,no,no,"low resolution, far distant"
+UAE_408,5104321825_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low - medium resolution
+UAE_409,5104361883_0.jpg,UAE,GBIF,C,yes,partial,no,no,"low resolution, far distant"
+UAE_410,4980482348_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_411,4981904420_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_412,4981910418_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_413,5104307020_0.jpg,UAE,GBIF,B,yes,clear,yes,yes,medium resolution
+UAE_414,5104307020_1.jpg,UAE,GBIF,B,yes,clear,yes,yes,medium resolution
+UAE_415,5104307020_2.jpg,UAE,GBIF,B,yes,clear,yes,yes,low - medium resolution
+UAE_416,5104319948_0.jpg,UAE,GBIF,B,yes,clear,yes,yes,medium resolution
+UAE_417,5104319948_1.jpg,UAE,GBIF,B,yes,clear,yes,yes,medium resolution
+UAE_418,5104319948_2.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_419,5104327958_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low - medium resolution
+UAE_420,4054773534_0.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_421,4054884517_0.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_422,4054910525_0.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_423,4055075522_0.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_424,5830490780_0.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_425,5109477180_0.jpg,UAE,GBIF,C,yes,clear,yes,yes,"healthy/unhealthy, low - medium resolution"
+UAE_426,4080685702_0.jpg,UAE,GBIF,D,yes,poor,no,no,"low resolution, far distant"
+UAE_427,4080685702_1.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_428,4080685702_2.jpg,UAE,GBIF,C,yes,clear,yes,no,low - medium resolution
+UAE_429,4080685702_3.jpg,UAE,GBIF,C,yes,clear,yes,yes,low - medium resolution
+UAE_430,4116052731_0.jpg,UAE,GBIF,B,yes,partial,yes,yes,"partial unhealthy, flowers focused"
+UAE_431,4116052731_1.jpg,UAE,GBIF,D,yes,poor,no,no,"low resolution, far distant"
+UAE_432,4116052731_2.jpg,UAE,GBIF,C,yes,clear,yes,yes,medium resolution
+UAE_433,4129709444_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_434,4510322352_0.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_435,3902006873_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_436,3772566780_0.jpg,UAE,GBIF,C,yes,clear,no,no,low resolution
+UAE_437,4014838648_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_438,4014838648_1.jpg,UAE,GBIF,B,yes,clear,yes,yes,"low - medium resolution, far distant"
+UAE_439,4054801511_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_440,4153428662_0.jpg,UAE,GBIF,D,yes,poor,no,no,not leaf focused
+UAE_441,4153428662_1.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_442,3301926753_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_443,3301926753_1.jpg,UAE,GBIF,B,yes,clear,yes,yes,flower focused
+UAE_444,2574213601_0.jpg,UAE,GBIF,A,yes,partial,yes,yes,focused on only 50% of the leaf
+UAE_445,2574213601_1.jpg,UAE,GBIF,A,yes,partial,yes,yes,focused on only 50% of the leaf
+UAE_446,2574213601_2.jpg,UAE,GBIF,A,yes,partial,yes,yes,upper top is clipped
+UAE_447,3391527396_0.jpg,UAE,GBIF,D,yes,clear,no,no,"low resolution, far distant"
+UAE_448,3391527396_1.jpg,UAE,GBIF,A,yes,clear,yes,yes,low - medium resolution
+UAE_449,3391527396_2.jpg,UAE,GBIF,A,yes,clear,yes,yes,medium resolution
+UAE_450,3391527396_3.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_451,3391527396_4.jpg,UAE,GBIF,A,yes,clear,yes,yes,"healthy, high resolution focused leaves"
+UAE_452,3391527396_5.jpg,UAE,GBIF,A,yes,clear,yes,yes,"healthy, high resolution focused leaves"
+UAE_453,3391527396_6.jpg,UAE,GBIF,A,yes,clear,yes,yes,
+UAE_454,3949048263_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_455,3949177286_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_456,2540726218_0.jpg,UAE,GBIF,D,yes,partial,no,no,"low resolution, far distant"
+UAE_457,2540726218_2.jpg,UAE,GBIF,A,yes,clear,yes,yes,
+UAE_458,2540726218_3.jpg,UAE,GBIF,A,yes,clear,yes,yes,healthy/unhealthy
+UAE_459,2540726218_4.jpg,UAE,GBIF,D,yes,poor,no,no,"blurred, background"
+UAE_460,2540726221_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low - medium resolution
+UAE_461,2540726221_1.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_462,2540726221_2.jpg,UAE,GBIF,D,yes,partial,no,no,low resolution - far distant
+UAE_463,2540726221_3.jpg,UAE,GBIF,C,yes,clear,yes,no,lowresolution
+UAE_464,2540726221_4.jpg,UAE,GBIF,D,yes,partial,no,no,low resolution - far distant
+UAE_465,2540726221_5.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_466,2540726221_6.jpg,UAE,GBIF,C,yes,clear,yes,no,low - medium resolution
+UAE_467,2540726221_7.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_468,2236266662_0.jpg,UAE,GBIF,B,yes,clear,yes,yes,flowers
+UAE_469,2236266662_1.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution\far distant
+UAE_470,2236266662_2.jpg,UAE,GBIF,B,yes,clear,yes,yes,flowers
+UAE_471,2236266662_3.jpg,UAE,GBIF,B,yes,partial,yes,yes,"flowers focused, little blurred"
+UAE_472,2236266662_4.jpg,UAE,GBIF,B,yes,clear,yes,yes,spider net visible
+UAE_473,2242870090_0.jpg,UAE,GBIF,D,yes,poor,no,no,"blurred background leaf, flower focused"
+UAE_474,2242870090_1.jpg,UAE,GBIF,B,yes,clear,yes,no,"medium resolution, flowers"
+UAE_475,2540738916_0.jpg,UAE,GBIF,D,yes,partial,no,no,low resolution - far distant
+UAE_476,2540738916_1.jpg,UAE,GBIF,D,yes,partial,no,no,low resolution - far distant
+UAE_477,2540739104_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_478,2540739104_1.jpg,UAE,GBIF,B,yes,clear,yes,yes,"medium resolution - background, fruits"
+UAE_479,2540739104_2.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_480,2542879222_0.jpg,UAE,GBIF,D,yes,poor,no,no,low resolution - far distant
+UAE_481,2542879222_1.jpg,UAE,GBIF,D,yes,poor,no,no,low resolution - far distant
+UAE_482,2542871866_0.jpg,UAE,GBIF,C,yes,clear,no,no,low resolution - far distant
+UAE_483,3457157815_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low resolution
+UAE_484,1500221428_0.jpg,UAE,GBIF,C,yes,clear,yes,no,low-medium resolution
+UAE_485,1563419155_0.jpg,UAE,GBIF,B,yes,clear,yes,yes,focused on leaves and flowers
+UAE_486,1563419155_1.jpg,UAE,GBIF,B,yes,clear,yes,yes,focused on leaves and flowers
+UAE_487,1269541734_0.jpg,UAE,GBIF,D,yes,partial,no,no,low resolution/far distant
+UAE_488,1701352226_0.jpg,UAE,GBIF,A,yes,clear,yes,no,low-medium resolution study leaf samples 
+UAE_489,1701352325_0.jpg,UAE,GBIF,A,yes,clear,yes,no,low resolution study leaf samples 
+UAE_490,5912094989_0.jpg,UAE,GBIF,A,yes,clear,yes,yes,high resolution study leaf samples 
+UAE_491,575060434_1.jpg,UAE,GBIF,A,yes,clear,yes,no,low resolution study leaf samples 
+UAE_492,3312562161_1.jpg,UAE,GBIF,B,yes,clear,yes,yes,medium resolution study leaf samples 
+UAE_493,3312562161_2.jpg,UAE,GBIF,B,yes,clear,yes,no,low resolution study leaf samples 
+UAE_494,3312562171_1.jpg,UAE,GBIF,B,yes,clear,yes,no,low resolution study leaf samples 
+UAE_495,32090209905_aedf9fca16_o.jpg,UAE,Flickr,C,yes,clear,no,no,low resolution - far distant
+UAE_496,49640176866_da0ae5100f_o.jpg,UAE,Flickr,C,yes,clear,no,no,low resolution - far distant
+UAE_497,49640457612_c7cb1a3b88_o.jpg,UAE,Flickr,D,yes,poor,no,no,low resolution - far distant
+UAE_498,Screenshot 2025-12-15 092747.png,UAE,Flickr,B,yes,clear,yes,no,"low resolution, fruits"
+KW_001,487226189.jpg,Kuwait,iNaturalist,C,yes,clear,yes,no,low resolution
+KW_002,487226219.jpg,Kuwait,iNaturalist,C,yes,clear,yes,no,low resolution
+KW_003,487226214.jpg,Kuwait,iNaturalist,C,yes,clear,yes,no,low resolution
+KW_004,388118782.jpeg,Kuwait,iNaturalist,A,yes,clear,yes,yes,
+KW_005,378522944.jpeg,Kuwait,iNaturalist,A,yes,clear,yes,yes,
+KW_006,114819751.jpeg,Kuwait,iNaturalist,D,yes,poor,no,no,low resolution - far distant
+KW_007,114819763.jpeg,Kuwait,iNaturalist,D,yes,poor,no,no,low resolution - far distant
+KW_008,38855219.jpeg,Kuwait,iNaturalist,D,yes,poor,no,no,low resolution - far distant
+KW_009,38855152.jpeg,Kuwait,iNaturalist,C,yes,clear,yes,no,low resolution
+KW_010,38854818.jpeg,Kuwait,iNaturalist,D,yes,poor,no,no,low resolution - far distant
+KW_011,38854829.jpeg,Kuwait,iNaturalist,C,yes,clear,yes,no,low resolution
+KW_012,38854848.jpeg,Kuwait,iNaturalist,B,yes,clear,yes,no,low resolution
+KW_013,38854858.jpeg,Kuwait,iNaturalist,B,yes,clear,yes,no,low resolution
+KW_014,38854879.jpeg,Kuwait,iNaturalist,A,yes,clear,yes,no,low - medium resolution
+KW_015,38854665.jpeg,Kuwait,iNaturalist,C,yes,clear,no,no,low resolution - far distant
+KW_016,38854677.jpeg,Kuwait,iNaturalist,C,yes,clear,no,no,low resolution - far distant
+KW_017,2540728648_0.jpg,Kuwait,GBIF,B,yes,clear,yes,no,low resolution
+KW_018,2540728652_0.jpg,Kuwait,GBIF,C,yes,clear,yes,no,low resolution
+KW_019,2540728652_1.jpg,Kuwait,GBIF,D,yes,poor,no,no,low resolution - far distant
+KW_020,2540728655_0.jpg,Kuwait,GBIF,D,yes,poor,no,no,low resolution - far distant
+KW_021,2540728656_0.jpg,Kuwait,GBIF,B,yes,clear,yes,no,low resolution
+KW_022,2540728656_1.jpg,Kuwait,GBIF,B,yes,clear,yes,no,low resolution
+KW_023,2540728656_2.jpg,Kuwait,GBIF,B,yes,clear,yes,no,low resolution
+KW_024,2540728656_3.jpg,Kuwait,GBIF,D,yes,poor,no,no,low resolution - far distant
+KW_025,2540728656_4.jpg,Kuwait,GBIF,C,yes,clear,no,no,low resolution - far distant
+KW_026,5153845033_0.jpg,Kuwait,GBIF,C,yes,clear,yes,no,low resolution
+KW_027,5153845033_1.jpg,Kuwait,GBIF,C,yes,clear,yes,no,low resolution
+KW_028,5153845033_2.jpg,Kuwait,GBIF,B,yes,clear,yes,no,low resolution
+KW_029,774000702_1.jpg,Kuwait,GBIF,B,yes,clear,yes,yes,medium resolution study leaf samples 
+KW_030,3854659073_ff475206ea_b.jpg,Kuwait,Flickr,D,yes,poor,no,no,low resolution - far distant
+KW_031,7267406804_ded9c6f2f6_o.jpg,Kuwait,Flickr,B,yes,clear,yes,yes,low - medium resolution
+KW_032,23332509219_b2c0b6569b_b.jpg,Kuwait,Flickr,D,yes,poor,no,no,low resolution - far distant
