@@ -21,7 +21,9 @@ Original leaf images were obtained from public biodiversity platforms (iNaturali
 Run the scripts in this order, from the folder that holds the input files:
 
 python 01_efd_analysis.py
+
 python 02_shape_pca_permanova_classification.py
+
 python 03_sensitivity_checks.py <folder containing basic_shape_features.csv>
 
 ## Software
