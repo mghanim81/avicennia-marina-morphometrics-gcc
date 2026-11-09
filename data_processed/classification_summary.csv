@@ -1,0 +1,4 @@
+Model,CV_accuracy_mean,CV_accuracy_sd,CV_macroF1_mean,Test_accuracy,Test_macroF1
+Morphometric (6 descriptors),0.4846,0.0485,0.3471,0.4831,0.324
+EFD (77 coeff. -> 20 PCs),0.4845,0.0339,0.2603,0.5393,0.3321
+Combined,0.5298,0.0151,0.301,0.5618,0.3644
